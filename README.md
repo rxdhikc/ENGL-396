@@ -22,6 +22,7 @@
 
 <h3>OTHER INTERESTS</h3>
 <p>I also ***LOVE*** watching movies. My top 3 are listed below!!</p>
+
 | Movie title | Genre |
 | :--- | ---: | 
 | 1. Interstellar | Sci-Fi |
