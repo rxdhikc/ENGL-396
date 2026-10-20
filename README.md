@@ -3,7 +3,7 @@
 <p>Hello, my name is Radhika. I am a sophomore at the University of Washington, Seattle. My intended major is Computer Science and I'm currently taking ENGL 396 for additional writing credit.</p>
 
 <h3>CLASSES AND ACADEMIC INTERESTS</h3>
-<p>I'm taking the following classes this quarter</p>
+<h4>I'm taking the following classes this quarter</h4>
 
 - CSE 373: Data Structures and Algorithms
 
