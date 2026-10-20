@@ -3,7 +3,7 @@
 
 ![Me in Bangkok, Thailand](my_image.jpg)
 
-<p>Hello, my name is Radhika. I am a sophomore at the University of Washington, Seattle. My intended major is Computer Science and I'm currently taking ENGL 396 for additional writing credit.</p>
+<p>Hello, my name is Radhika. I am a sophomore at the University of Washington, Seattle. My intended major is Computer Science and I'm currently taking ENGL 396 to learn about Technical Writing.</p>
 
 <h3>CLASSES AND ACADEMIC INTERESTS</h3>
 <h4>I'm taking the following classes this quarter</h4>
