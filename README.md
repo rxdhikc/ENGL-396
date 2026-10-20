@@ -21,7 +21,7 @@
 <p>Outside of my classes, I really like astrophysics. I love reading wild theories about black holes and the existence of extraterrestrial life. One thing I found really interesting, in particular, was the sound of air on Saturn. This voice clip was posted by NASA publicly on their website (I have attached the link to this voice clip below). The reason I found it interesting was the mystery of the sound. The article that I ave pasted mentioned that there were storms on Saturn at the time, but it could also have been something else. This speculation and mystery had me invested in this article for 30 minutes straight.</p>
 
 <h3>OTHER INTERESTS</h3>
-<p>I also <I>LOVE</I> watching movies. My top 3 are listed below!!</p>
+<p>I also*LOVE*watching movies. My top 3 are listed below!!</p>
 
 | Movie title | Genre |
 | :--- | ---: | 
