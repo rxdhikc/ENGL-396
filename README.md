@@ -4,6 +4,7 @@
 
 <h3>CLASSES AND ACADEMIC INTERESTS</h3>
 <p>I'm taking the following classes this quarter</p>
+
 - CSE 373: Data Structures and Algorithms
 
 - MATH 208: Linear Algebra
