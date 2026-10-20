@@ -11,9 +11,9 @@
   
 - ENGL 396: Software Documentation
   
-- JSIS B 497 A: The Global Career Acceleration
+- JSIS B 497 A: The Global Career Accelerator
   
-<p>Currently my favorite class is CSE 373. Surprisingly, I used to be nervous during my CSE classes last year. However, after practice, and getting used to the feeling of being lost, I have started liking my current class.</p>
+<p>Currently my favorite class is CSE 373. My favorite part about this class is that it's very theoretical. The Intro to CSE series was mostly writing code and working on projects, which is also fun, but I personally really like studying about what goes behind the surface level concepts. I also like how this class is at an intersection of Math and Computer Science. We talk about real world situations in this class, along with the core concepts. Surprisingly, I used to be nervous during my CSE classes last year. However, after practice, and getting used to the feeling of being lost, I have started liking my current class.</p>
 <h4>Academic Interests</h4>
 <p>Outside of my classes, I really like astrophysics. I love reading wild theories about black holes and the existence of extraterrestrial life. One thing I found really interesting, in particular, was the sound of air on Saturn. This voice clip was posted by NASA publicly on their website (I have attached the link to this voice clip below). The reason I found it interesting was the mystery of the sound. The article that I ave pasted mentioned that there were storms on Saturn at the time, but it could also have been something else. This speculation and mystery had me invested in this article for 30 minutes straight.</p>
 
