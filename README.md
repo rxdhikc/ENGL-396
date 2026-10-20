@@ -1,6 +1,6 @@
 <h1>ABOUT ME</h1>
 <h3>INTRODUCTION</h3>
-![Photo](my_image.jpg)
+![Me in Bangkok, Thailand](my_image.jpg)
 <p>Hello, my name is Radhika. I am a sophomore at the University of Washington, Seattle. My intended major is Computer Science and I'm currently taking ENGL 396 for additional writing credit.</p>
 
 <h3>CLASSES AND ACADEMIC INTERESTS</h3>
