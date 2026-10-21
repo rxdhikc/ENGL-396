@@ -23,7 +23,7 @@
 [The Sound of Saturn!! Check it out!](https://www.nytimes.com/2017/05/03/science/nasa-cassini-sound-recording-saturn.html?eafs_enabled=false)
 
 <h3>OTHER INTERESTS</h3>
-<p>I also <I>LOVE</I> watching movies. My top 3 are listed below!!</p>
+<p>I also ***LOVE*** watching movies. My top 3 are listed below!!</p>
 
 | Movie title | Genre |
 | :--- | ---: | 
